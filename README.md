@@ -16,7 +16,7 @@ it works in both browser and in node with the following APIs:
 
 * Supports W3C WebSocket
 * [ws](https://github.com/einaros/ws)
-* [engine.io](https://github.com/LearnBoost/engine.io
+* [engine.io](https://github.com/LearnBoost/engine.io)
 
 ## Documentation
 
