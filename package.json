@@ -1,7 +1,7 @@
 {
   "name": "wspoint",
   "description": "Create a dublex stream around a websocket",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Andreas Madsen <amwebdk@gmail.com>",
   "scripts": {
     "test": "tap test/*"
@@ -17,15 +17,11 @@
     "stream"
   ],
   "devDependencies": {
-    "ws": "0.4.x",
-    "tap": "0.4.x",
+    "ws": "0.7.x",
+    "tap": "0.6.x",
     "endpoint": "0.4.x",
-    "engine.io": "0.7.x",
-    "engine.io-client": "0.7.x"
+    "engine.io": "1.5.x",
+    "engine.io-client": "1.5.x"
   },
-  "license": "MIT",
-  "engines": {
-    "node": "0.10",
-    "npm": "1"
-  }
+  "license": "MIT"
 }
